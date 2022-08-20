@@ -1,4 +1,4 @@
-title: "sinka97"
+title: "About Sin"
 author: "Thant Sin Khine Aung"
 description: "Thant Sin Khine Aung's personal blog"
 lang: "en"
@@ -18,6 +18,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:yourssincerelysin@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/sinka97"}
+
+remote_theme: niklasbuschmann/contrast@v2.11
 
 plugins:
   - jekyll-remote-theme
